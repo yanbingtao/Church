@@ -1,0 +1,14 @@
+c:\users\yan\documents\visual studio 2015\Projects\ChurchGame\ChurchGame\bin\Debug\ChurchGame.exe.config
+c:\users\yan\documents\visual studio 2015\Projects\ChurchGame\ChurchGame\bin\Debug\ChurchGame.exe
+c:\users\yan\documents\visual studio 2015\Projects\ChurchGame\ChurchGame\bin\Debug\ChurchGame.pdb
+c:\users\yan\documents\visual studio 2015\Projects\ChurchGame\ChurchGame\obj\Debug\ChurchGame.csprojResolveAssemblyReference.cache
+c:\users\yan\documents\visual studio 2015\Projects\ChurchGame\ChurchGame\obj\Debug\ChurchGame.Form1.resources
+c:\users\yan\documents\visual studio 2015\Projects\ChurchGame\ChurchGame\obj\Debug\ChurchGame.Properties.Resources.resources
+c:\users\yan\documents\visual studio 2015\Projects\ChurchGame\ChurchGame\obj\Debug\ChurchGame.csproj.GenerateResource.Cache
+c:\users\yan\documents\visual studio 2015\Projects\ChurchGame\ChurchGame\obj\Debug\ChurchGame.exe
+c:\users\yan\documents\visual studio 2015\Projects\ChurchGame\ChurchGame\obj\Debug\ChurchGame.pdb
+c:\users\yan\documents\visual studio 2015\Projects\ChurchGame\ChurchGame\obj\Debug\ChurchGame.ChurchGamePage2.resources
+C:\Users\YAN\Documents\Visual Studio 2015\Projects\ChurchGame\ChurchGame\obj\Debug\ChurchGame.DisplayScreen.resources
+C:\Users\YAN\Desktop\ChurchGame Tom\ChurchGame\bin\Debug\ChurchGame.exe.config
+C:\Users\YAN\Desktop\ChurchGame Tom\ChurchGame\obj\Debug\ChurchGame.exe
+C:\Users\YAN\Desktop\ChurchGame Tom\ChurchGame\obj\Debug\ChurchGame.pdb
