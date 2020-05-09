@@ -1,0 +1,10 @@
+c:\users\yan\documents\visual studio 2015\Projects\PersonalityTest1\PersonalityTest1\bin\Debug\PersonalityTest1.exe.config
+c:\users\yan\documents\visual studio 2015\Projects\PersonalityTest1\PersonalityTest1\bin\Debug\PersonalityTest1.exe
+c:\users\yan\documents\visual studio 2015\Projects\PersonalityTest1\PersonalityTest1\bin\Debug\PersonalityTest1.pdb
+c:\users\yan\documents\visual studio 2015\Projects\PersonalityTest1\PersonalityTest1\obj\Debug\PersonalityTest1.csprojResolveAssemblyReference.cache
+c:\users\yan\documents\visual studio 2015\Projects\PersonalityTest1\PersonalityTest1\obj\Debug\PersonalityTest1.Form1.resources
+c:\users\yan\documents\visual studio 2015\Projects\PersonalityTest1\PersonalityTest1\obj\Debug\PersonalityTest1.Properties.Resources.resources
+c:\users\yan\documents\visual studio 2015\Projects\PersonalityTest1\PersonalityTest1\obj\Debug\PersonalityTest1.csproj.GenerateResource.Cache
+c:\users\yan\documents\visual studio 2015\Projects\PersonalityTest1\PersonalityTest1\obj\Debug\PersonalityTest1.exe
+c:\users\yan\documents\visual studio 2015\Projects\PersonalityTest1\PersonalityTest1\obj\Debug\PersonalityTest1.pdb
+c:\users\yan\documents\visual studio 2015\Projects\PersonalityTest1\PersonalityTest1\obj\Debug\PersonalityTest1.QuestionPage.resources
